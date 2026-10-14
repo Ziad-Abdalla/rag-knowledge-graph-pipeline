@@ -189,7 +189,7 @@ PDF upload triggers asynchronous processing. The API returns immediately with a 
 
 ## Project Scope
 
-This was my bachelor thesis project — I inherited a partially working codebase and turned it into a production-ready multi-tenant system:
+I inherited a partially working codebase and turned it into a production-ready multi-tenant system:
 
 - Assessed and fixed 32 code quality issues across 4 repositories
 - Built the complete REST API layer (FastAPI) with auth, rate limiting, and document management
